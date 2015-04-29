@@ -1,0 +1,11 @@
+---
+-
+  data: "DROP TABLE series_episode_delivery;"
+-
+  data: "DROP TABLE series_episode"
+-
+  data: "DROP TABLE season_pass"
+-
+  data: "DROP TABLE series_season"
+-
+  data: "DROP TABLE series"
